@@ -1,0 +1,9 @@
+Building Musiccoin
+
+See doc/readme-qt.rst for instructions on building Musiccoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Musiccoin.
+
+See doc/build-*.txt for instructions on building musiccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Musiccoin.
